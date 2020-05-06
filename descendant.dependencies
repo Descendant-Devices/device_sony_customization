@@ -325,7 +325,8 @@
   {
     "remote":       "aosp",
     "repository":   "platform/hardware/qcom/sdm845/data/ipacfg-mgr",
-    "target_path":  "hardware/qcom/data/ipacfg-mgr/sdm845"
+    "target_path":  "hardware/qcom/data/ipacfg-mgr/sdm845",
+    "branch": "refs/tags/android-10.0.0_r36"
   },
   {
     "remote":       "github",
