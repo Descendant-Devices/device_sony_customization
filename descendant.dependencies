@@ -329,6 +329,12 @@
     "branch": "refs/tags/android-10.0.0_r36"
   },
   {
+    "remote":       "aosp",
+    "repository":   "platform/hardware/qcom/sdm845/gps",
+    "target_path":  "hardware/qcom/gps",
+    "branch": "refs/tags/android-10.0.0_r36"
+  },
+  {
     "remote":       "github",
     "repository":   "afstamming/proprietary_vendor_widevine",
     "target_path":  "vendor/widevine",
