@@ -312,9 +312,20 @@
   },
   {
     "remote":       "github",
+    "repository":   "sonyxperiadev/vendor-qcom-opensource-interfaces",
+    "target_path":  "vendor/qcom/opensource/interfaces",
+    "branch":     "aosp/LA.UM.7.1.r1"
+  },
+  {
+    "remote":       "github",
     "repository":   "sonyxperiadev/vendor-qcom-opensource-vibrator",
     "target_path":  "vendor/qcom/opensource/vibrator",
     "branch":     "aosp/LA.UM.7.1.r1"
+  },
+  {
+    "remote":       "aosp",
+    "repository":   "platform/hardware/qcom/sdm845/data/ipacfg-mgr",
+    "target_path":  "hardware/qcom/data/ipacfg-mgr/sdm845"
   },
   {
     "remote":       "github",
