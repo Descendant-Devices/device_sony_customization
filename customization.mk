@@ -182,4 +182,4 @@ $(call inherit-product-if-exists, vendor/widevine/widevine.mk)
 DEXPREOPT_GENERATE_APEX_IMAGE := true
 
 -include $(CUST_PATH)/pe_cust.mk
--include vendor/aosp/config/common_full_phone.mk
+-include vendor/dot/config/common.mk
