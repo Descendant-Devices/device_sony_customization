@@ -141,6 +141,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(CUST_PATH)/ims/emptyfile:$(TARGET_COPY_OUT_SYSTEM_EXT)/priv-app/ims/lib/arm64/bind_mount_lib64_here
 
+# The packages in that permission file are in system_ext so as to avoid conflicts with other devices copy the file here
+PRODUCT_COPY_FILES += \
+    vendor/dot/config/permissions/privapp-permissions-lineagehw.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/privapp-permissions-lineagehw.xml
+
 # USB debugging at boot
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.sys.usb.config=mtp,adb \
