@@ -464,5 +464,5 @@
     "repository":   "sonyxperiadev/vendor-qcom-opensource-vibrator",
     "target_path":  "vendor/qcom/opensource/vibrator-sony",
     "branch":     "aosp/LA.UM.7.1.r1"
-  },
+  }
 ]
