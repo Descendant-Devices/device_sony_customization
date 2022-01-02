@@ -170,31 +170,6 @@
   },
   {
     "remote":       "github",
-    "repository":   "sonyxperiadev/device-sony-yoshino",
-    "target_path":  "device/sony/yoshino",
-    "branch":     "master"
-  },
-  {
-    "remote":       "github",
-    "repository":   "sonyxperiadev/device-sony-poplar",
-    "target_path":  "device/sony/poplar",
-    "branch":     "master"
-  },
-  {
-    "remote":       "github",
-    "repository":   "sonyxperiadev/device-sony-lilac",
-    "target_path":  "device/sony/lilac",
-    "branch":     "master"
-  },
-  {
-    "remote":       "github",
-    "repository":   "sonyxperiadev/device-sony-maple",
-    "target_path":  "device/sony/maple",
-    "branch":     "master"
-  },
-
-  {
-    "remote":       "github",
     "repository":   "sonyxperiadev/device-sony-tama",
     "target_path":  "device/sony/tama",
     "branch":     "master"
