@@ -185,5 +185,5 @@ $(call inherit-product-if-exists, vendor/widevine/widevine.mk)
 # Updatable Apex
 DEXPREOPT_GENERATE_APEX_IMAGE := true
 
--include $(CUST_PATH)/pe_cust.mk
--include vendor/dot/config/common.mk
+-include $(CUST_PATH)/descendant_cust.mk
+-include vendor/aosp/config/common.mk
