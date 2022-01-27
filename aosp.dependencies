@@ -394,7 +394,8 @@
     "branch":     "aosp/LA.UM.9.12.r1"
   },
   {
-    "repository":   "device_sony_ipacfg-mgr",
+    "remote":       "github",
+    "repository":   "dotOS-Devices/device_sony_ipacfg-mgr",
     "target_path":  "vendor/qcom/opensource/data/ipacfg-mgr/sdm845",
     "branch":     "dot12"
   },
