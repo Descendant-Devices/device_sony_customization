@@ -19,7 +19,7 @@ CUST_PATH := device/sony/customization
 
 # Compilers setup for Q
 TARGET_KERNEL_CLANG_COMPILE := true
-TARGET_CLANG_VERSION := r353983c
+TARGET_CLANG_VERSION := r416183b
 
 # Data services
 USE_DEVICE_SPECIFIC_DATASERVICES := true
